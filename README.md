@@ -10,9 +10,9 @@
 
 ---
 
-<div>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=neontrix&show_icons=true&theme=dracula"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neontrix&layout=compact&theme=dracula"/>  
+<div align="center">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Carvalhozz&show_icons=true&theme=dracula"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalhozz&layout=compact&theme=dracula"/>
 </div>
  
 ### 🦾 Skills developed throughout career
