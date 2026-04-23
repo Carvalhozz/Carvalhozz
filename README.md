@@ -14,6 +14,14 @@
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Carvalhozz&show_icons=true&theme=dracula"/>
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalhozz&layout=compact&theme=dracula"/>
 </div>
+
+<div align="center">
+  <img height="177em"
+  src="https://github-readme-stats.vercel.app/api?username=Carvalhozz&show_icons=true&theme=dracula"/>
+
+  <img height="177em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalhozz&layout=compact&theme=dracula&langs_count=4&hide=tex,jupyter%20notebook,swift"/>
+</div>
  
 ### 🦾 Skills developed throughout career
 
