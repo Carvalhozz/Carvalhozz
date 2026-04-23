@@ -19,8 +19,8 @@
 
 ---
 
-![Flet](https://img.shields.io/badge/Playwright-%20-blue)
-![Flutter](https://img.shields.io/badge/Playwright-%20-blue)
+![Flet](https://img.shields.io/badge/Flet-%20-blue)
+![Flutter](https://img.shields.io/badge/Flutter-%20-blue)
 ![Git Badge](https://img.shields.io/badge/Git-%20-orange)
 ![GitHub Badge](https://img.shields.io/badge/Github-%20-orange)
 ![Python Badge](https://img.shields.io/badge/Python-%20-blue)
